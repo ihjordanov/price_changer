@@ -6,7 +6,7 @@ A JavaScript utility that automatically converts Bulgarian Lev (BGN) prices to E
 
 - Automatically detects BGN prices on page load
 - Handles dynamic content changes and URL navigation
-- Converts prices using the fixed exchange rate of 1 BGN = 1.95583 EUR
+- Converts prices using the fixed exchange rate of 1 EUR = 1.95583 BGN
 - Formats Euro amounts with proper decimal places
 - Prevents duplicate processing of already converted elements
 - Works with single-page applications (SPA) and traditional navigation
